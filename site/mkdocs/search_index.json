@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to Azalead App Documentation\n\n\nFor Support requests, please visit \nazalead.desk.com\n.\n\n\nSections\n\n\n\n\nInstalling Azalead Sensor\n - Installing Azalead Sensor.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "Welcome to Azalead App Documentation\n\n\nFor Support requests, please visit \nazalead.desk.com\n.\n\n\nSections\n\n\nSection 1\n\n\n\n\nInstalling Azalead Sensor\n - Installing Azalead Sensor.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\n\n\nSection 2\n\n\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
             "title": "Home"
         }, 
         {
@@ -12,8 +12,18 @@
         }, 
         {
             "location": "/#sections", 
-            "text": "Installing Azalead Sensor  - Installing Azalead Sensor.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "text": "", 
             "title": "Sections"
+        }, 
+        {
+            "location": "/#section-1", 
+            "text": "Installing Azalead Sensor  - Installing Azalead Sensor.  mkdocs serve  - Start the live-reloading docs server.", 
+            "title": "Section 1"
+        }, 
+        {
+            "location": "/#section-2", 
+            "text": "mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
+            "title": "Section 2"
         }, 
         {
             "location": "/#project-layout", 
