@@ -1,83 +1,128 @@
 {
     "docs": [
         {
-            "location": "/", 
-            "text": "Azalead App Documentation\n\n\nFor Support requests, please visit \nazalead.desk.com\n.\n\n\nSections\n\n\nAccount Sensor Installation\n\n\nAdvertising\n\n\nWebsite Personalization\n\n\n\n\nInstalling Azalead Sensor\n - Installing Azalead Sensor.\n\n\nItem2\n - item.\n\n\n\n\nSection 2\n\n\nSection 2.2\n\n\nFenced code blocks are like Standard\nMarkdown\u2019s regular code blocks, except that\nthey\u2019re not indented and instead rely on\nstart and end fence lines to delimit the\ncode block.\n\n\n\n\nSection 2.2.2", 
+            "location": "/",
+            "text": "Azalead App Documentation\n\n\nFor Support requests, please visit \nazalead.desk.com\n.\n\n\nSections\n\n\nAccount Sensor Installation\n\n\nAdvertising\n\n\nWebsite Personalization\n\n\n\n\nInstalling Azalead Sensor\n - Installing Azalead Sensor.\n\n\nItem2\n - item.\n\n\n\n\nAccount Sensing\n\n\nSection 2\n\n\nSection 2.2\n\n\nFenced code blocks are like Standard\nMarkdown\u2019s regular code blocks, except that\nthey\u2019re not indented and instead rely on\nstart and end fence lines to delimit the\ncode block.\n\n\n\n\nSection 2.2.2",
             "title": "Home"
-        }, 
+        },
         {
-            "location": "/#sections", 
-            "text": "", 
+            "location": "/#sections",
+            "text": "",
             "title": "Sections"
-        }, 
+        },
         {
-            "location": "/#account-sensor-installation", 
-            "text": "", 
+            "location": "/#account-sensor-installation",
+            "text": "",
             "title": "Account Sensor Installation"
-        }, 
+        },
         {
-            "location": "/#advertising", 
-            "text": "", 
+            "location": "/#advertising",
+            "text": "",
             "title": "Advertising"
-        }, 
+        },
         {
-            "location": "/#website-personalization", 
-            "text": "Installing Azalead Sensor  - Installing Azalead Sensor.  Item2  - item.", 
+            "location": "/#website-personalization",
+            "text": "Installing Azalead Sensor  - Installing Azalead Sensor.  Item2  - item.",
             "title": "Website Personalization"
-        }, 
+        },
         {
-            "location": "/#section-2", 
-            "text": "", 
+            "location": "/#account-sensing",
+            "text": "",
+            "title": "Account Sensing"
+        },
+        {
+            "location": "/#section-2",
+            "text": "",
             "title": "Section 2"
-        }, 
+        },
         {
-            "location": "/#section-22", 
-            "text": "Fenced code blocks are like Standard\nMarkdown\u2019s regular code blocks, except that\nthey\u2019re not indented and instead rely on\nstart and end fence lines to delimit the\ncode block.", 
+            "location": "/#section-22",
+            "text": "Fenced code blocks are like Standard\nMarkdown\u2019s regular code blocks, except that\nthey\u2019re not indented and instead rely on\nstart and end fence lines to delimit the\ncode block.",
             "title": "Section 2.2"
-        }, 
+        },
         {
-            "location": "/#section-222", 
-            "text": "", 
+            "location": "/#section-222",
+            "text": "",
             "title": "Section 2.2.2"
-        }, 
+        },
         {
-            "location": "/advertising/", 
-            "text": "Advertising Documentation\n\n\nRetargeting Rules\n\n\n\n\nInstalling Azalead Sensor\n - Installing Azalead Sensor.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\n\n\nSection 2\n\n\nSection 2.2\n\n\nChecklist\n\n\n\n\nitem \n\n\nitem\n\n\nitem\n\n\n\n\nTable\n\n\n\n\n\n\n\n\nFirst Header\n\n\nSecond Header\n\n\nThird Header\n\n\n\n\n\n\n\n\n\n\nContent Cell\n\n\nContent Cell\n\n\nContent Cell\n\n\n\n\n\n\nContent Cell\n\n\nContent Cell\n\n\nContent Cell\n\n\n\n\n\n\n\n\nCode\n\n\nhtml\n\n   \nbody\n\n     \np\nHello World\n/p\n\n   \n/body\n\n\n/html\n\n\n\n\n\ndocumentation by Jean-Yves SIMON ![]https://render.bitstrips.com/v2/cpanel/10212727-220689600_5-s4-v1.png?transparent=1", 
-            "title": "Advertising"
-        }, 
+            "location": "/accountsensing/",
+            "text": "Advertising Documentation\n\n\nRetargeting Rules\n\n\n\n\nInstalling Azalead Sensor\n - Installing Azalead Sensor.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\n\n\nSection 2\n\n\nSection 2.2\n\n\nChecklist\n\n\n\n\nitem \n\n\nitem\n\n\nitem\n\n\n\n\nTable\n\n\n\n\n\n\n\n\nFirst Header\n\n\nSecond Header\n\n\nThird Header\n\n\n\n\n\n\n\n\n\n\nContent Cell\n\n\nContent Cell\n\n\nContent Cell\n\n\n\n\n\n\nContent Cell\n\n\nContent Cell\n\n\nContent Cell\n\n\n\n\n\n\n\n\nCode\n\n\n<html>\n   <body>\n     <p>Hello World</p>\n   </body>\n</html>\n\n\n\n\ndocumentation by Jean-Yves SIMON ![]https://render.bitstrips.com/v2/cpanel/10212727-220689600_5-s4-v1.png?transparent=1",
+            "title": "Accountsensing"
+        },
         {
-            "location": "/advertising/#advertising-documentation", 
-            "text": "", 
+            "location": "/accountsensing/#advertising-documentation",
+            "text": "",
             "title": "Advertising Documentation"
-        }, 
+        },
         {
-            "location": "/advertising/#retargeting-rules", 
-            "text": "Installing Azalead Sensor  - Installing Azalead Sensor.  mkdocs serve  - Start the live-reloading docs server.", 
+            "location": "/accountsensing/#retargeting-rules",
+            "text": "Installing Azalead Sensor  - Installing Azalead Sensor.  mkdocs serve  - Start the live-reloading docs server.",
             "title": "Retargeting Rules"
-        }, 
+        },
         {
-            "location": "/advertising/#section-2", 
-            "text": "", 
+            "location": "/accountsensing/#section-2",
+            "text": "",
             "title": "Section 2"
-        }, 
+        },
         {
-            "location": "/advertising/#section-22", 
-            "text": "", 
+            "location": "/accountsensing/#section-22",
+            "text": "",
             "title": "Section 2.2"
-        }, 
+        },
         {
-            "location": "/advertising/#checklist", 
-            "text": "item   item  item", 
+            "location": "/accountsensing/#checklist",
+            "text": "item   item  item",
             "title": "Checklist"
-        }, 
+        },
         {
-            "location": "/advertising/#table", 
-            "text": "First Header  Second Header  Third Header      Content Cell  Content Cell  Content Cell    Content Cell  Content Cell  Content Cell", 
+            "location": "/accountsensing/#table",
+            "text": "First Header  Second Header  Third Header      Content Cell  Content Cell  Content Cell    Content Cell  Content Cell  Content Cell",
             "title": "Table"
-        }, 
+        },
         {
-            "location": "/advertising/#code", 
-            "text": "html \n    body \n      p Hello World /p \n    /body  /html   documentation by Jean-Yves SIMON ![]https://render.bitstrips.com/v2/cpanel/10212727-220689600_5-s4-v1.png?transparent=1", 
+            "location": "/accountsensing/#code",
+            "text": "<html>\n   <body>\n     <p>Hello World</p>\n   </body>\n</html>  documentation by Jean-Yves SIMON ![]https://render.bitstrips.com/v2/cpanel/10212727-220689600_5-s4-v1.png?transparent=1",
+            "title": "Code"
+        },
+        {
+            "location": "/advertising/",
+            "text": "Advertising Documentation\n\n\nRetargeting Rules\n\n\n\n\nInstalling Azalead Sensor\n - Installing Azalead Sensor.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\n\n\nSection 2\n\n\nSection 2.2\n\n\nChecklist\n\n\n\n\nitem \n\n\nitem\n\n\nitem\n\n\n\n\nTable\n\n\n\n\n\n\n\n\nFirst Header\n\n\nSecond Header\n\n\nThird Header\n\n\n\n\n\n\n\n\n\n\nContent Cell\n\n\nContent Cell\n\n\nContent Cell\n\n\n\n\n\n\nContent Cell\n\n\nContent Cell\n\n\nContent Cell\n\n\n\n\n\n\n\n\nCode\n\n\n<html>\n   <body>\n     <p>Hello World</p>\n   </body>\n</html>\n\n\n\n\ndocumentation by Jean-Yves SIMON ![]https://render.bitstrips.com/v2/cpanel/10212727-220689600_5-s4-v1.png?transparent=1",
+            "title": "Advertising"
+        },
+        {
+            "location": "/advertising/#advertising-documentation",
+            "text": "",
+            "title": "Advertising Documentation"
+        },
+        {
+            "location": "/advertising/#retargeting-rules",
+            "text": "Installing Azalead Sensor  - Installing Azalead Sensor.  mkdocs serve  - Start the live-reloading docs server.",
+            "title": "Retargeting Rules"
+        },
+        {
+            "location": "/advertising/#section-2",
+            "text": "",
+            "title": "Section 2"
+        },
+        {
+            "location": "/advertising/#section-22",
+            "text": "",
+            "title": "Section 2.2"
+        },
+        {
+            "location": "/advertising/#checklist",
+            "text": "item   item  item",
+            "title": "Checklist"
+        },
+        {
+            "location": "/advertising/#table",
+            "text": "First Header  Second Header  Third Header      Content Cell  Content Cell  Content Cell    Content Cell  Content Cell  Content Cell",
+            "title": "Table"
+        },
+        {
+            "location": "/advertising/#code",
+            "text": "<html>\n   <body>\n     <p>Hello World</p>\n   </body>\n</html>  documentation by Jean-Yves SIMON ![]https://render.bitstrips.com/v2/cpanel/10212727-220689600_5-s4-v1.png?transparent=1",
             "title": "Code"
         }
     ]
