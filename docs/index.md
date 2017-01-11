@@ -10,6 +10,9 @@ For Support requests, please visit [azalead.desk.com](http://azalead.desk.com).
 * `Installing Azalead Sensor` - Installing Azalead Sensor.
 * `Item2` - item.
 
+## [Account Sensing](accountsensing.md)
+
+
 # Section 2
 
 ## Section 2.2
