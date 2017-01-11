@@ -47,43 +47,18 @@
         },
         {
             "location": "/accountsensing/",
-            "text": "Advertising Documentation\n\n\nRetargeting Rules\n\n\n\n\nInstalling Azalead Sensor\n - Installing Azalead Sensor.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\n\n\nSection 2\n\n\nSection 2.2\n\n\nChecklist\n\n\n\n\nitem \n\n\nitem\n\n\nitem\n\n\n\n\nTable\n\n\n\n\n\n\n\n\nFirst Header\n\n\nSecond Header\n\n\nThird Header\n\n\n\n\n\n\n\n\n\n\nContent Cell\n\n\nContent Cell\n\n\nContent Cell\n\n\n\n\n\n\nContent Cell\n\n\nContent Cell\n\n\nContent Cell\n\n\n\n\n\n\n\n\nCode\n\n\n<html>\n   <body>\n     <p>Hello World</p>\n   </body>\n</html>\n\n\n\n\ndocumentation by Jean-Yves SIMON ![]https://render.bitstrips.com/v2/cpanel/10212727-220689600_5-s4-v1.png?transparent=1",
+            "text": "Account Sensing\n\n\nIdentification\n\n\n\n\nupdated on 2017-01-11",
             "title": "Accountsensing"
         },
         {
-            "location": "/accountsensing/#advertising-documentation",
+            "location": "/accountsensing/#account-sensing",
             "text": "",
-            "title": "Advertising Documentation"
+            "title": "Account Sensing"
         },
         {
-            "location": "/accountsensing/#retargeting-rules",
-            "text": "Installing Azalead Sensor  - Installing Azalead Sensor.  mkdocs serve  - Start the live-reloading docs server.",
-            "title": "Retargeting Rules"
-        },
-        {
-            "location": "/accountsensing/#section-2",
-            "text": "",
-            "title": "Section 2"
-        },
-        {
-            "location": "/accountsensing/#section-22",
-            "text": "",
-            "title": "Section 2.2"
-        },
-        {
-            "location": "/accountsensing/#checklist",
-            "text": "item   item  item",
-            "title": "Checklist"
-        },
-        {
-            "location": "/accountsensing/#table",
-            "text": "First Header  Second Header  Third Header      Content Cell  Content Cell  Content Cell    Content Cell  Content Cell  Content Cell",
-            "title": "Table"
-        },
-        {
-            "location": "/accountsensing/#code",
-            "text": "<html>\n   <body>\n     <p>Hello World</p>\n   </body>\n</html>  documentation by Jean-Yves SIMON ![]https://render.bitstrips.com/v2/cpanel/10212727-220689600_5-s4-v1.png?transparent=1",
-            "title": "Code"
+            "location": "/accountsensing/#identification",
+            "text": "updated on 2017-01-11",
+            "title": "Identification"
         },
         {
             "location": "/advertising/",
